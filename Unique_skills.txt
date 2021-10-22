@@ -1,0 +1,631 @@
+data analytics 6326
+python 4393
+computer science 4347
+statistics 3769
+sql 3455
+data science 2579
+management 2445
+machine learning 2238
+software 1985
+r 1773
+communication 1642
+mathematics 1549
+tableau 1544
+hadoop 1422
+java 1418
+spark 1375
+research 1312
+programming 1092
+marketing 928
+excel 914
+data visualization 871
+sas 833
+aws 808
+big data 796
+etl 782
+artificial intelligence 767
+database 731
+ms 708
+data management 695
+automation 694
+data warehouse 691
+scala 663
+c++ 659
+data quality 657
+visualization 637
+modeling 632
+presentation 631
+relational database 593
+software development 585
+data mining 547
+data engineering 533
+azure 515
+https 494
+kafka 491
+microsoft 457
+business intelligence 445
+natural language processing 437
+c 429
+project management 387
+data structure 387
+software engineering 385
+matlab 378
+powerpoint 364
+oracle 360
+data processing 352
+git 345
+network 337
+tensorflow 319
+senior management 318
+predictive modeling 315
+continuous improvement 313
+linux 300
+modelling 290
+computer vision 288
+microsoft office 287
+product management 285
+query 285
+genetics 278
+data modeling 271
+forecasting 270
+predictive analytics 269
+hbase 269
+perl 264
+operations research 264
+spss 255
+salesforce 251
+data integration 247
+cassandra 246
+product development 244
+information system 243
+docker 239
+javascript 238
+data warehousing 234
+unix 233
+quantitative analysis 231
+statistical method 230
+mapreduce 230
+data infrastructure 229
+business analysis 224
+keras 220
+data architecture 218
+analytic 217
+microsoft excel 215
+bioinformatics 214
+hardware 211
+jira 208
+business analytics 207
+kubernetes 195
+google analytics 188
+postgresql 187
+ms excel 186
+pig 185
+sap 184
+interface 182
+hive 182
+mongodb 181
+powerbi 178
+digital transformation 177
+api 177
+data solution 175
+data system 175
+rest 172
+data platform 171
+informatica 170
+computer engineering 169
+econometrics 164
+power bi 162
+electrical engineering 162
+data manipulation 161
+organizational 161
+troubleshooting 160
+postgres 160
+data visualisation 159
+simulation 155
+dynamic environment 152
+unstructured data 151
+ssis 147
+written verbal communication 146
+data transformation 146
+support 144
+teradata 144
+agile environment 133
+jenkins 131
+customer service 130
+alteryx 127
+effective communication 125
+windows 122
+version control 119
+distributed system 118
+model development 118
+elasticsearch 116
+ci 115
+c# 114
+qlikview 114
+computational biology 113
+robotics 109
+dynamodb 108
+accounting 106
+feature engineering 102
+google cloud platform 101
+workflow 100
+data validation 97
+biostatistics 96
+crm 95
+statistical package 95
+complex analysis 95
+ruby 93
+html 93
+vba 92
+coding 92
+analytics solution 92
+experimental design 91
+json 90
+agile development methodology 86
+algorithm development 85
+prediction 84
+process improvement 84
+stata 82
+clinical trial 81
+prototyping 80
+scrum 79
+mysql 79
+confluence 79
+design 76
+product analytics 76
+spreadsheet 75
+web analytics 75
+ssrs 74
+data access 74
+data storage 74
+rdbms 74
+scripting 72
+data security 70
+product design 67
+distributed computing 66
+ibm 66
+cognos 66
+digital technology 65
+server 65
+audits 65
+microstrategy 64
+cybersecurity 63
+solution 62
+trend analysis 61
+quality control 61
+design development 59
+setup 59
+backend 59
+image processing 59
+adobe analytics 59
+xml 58
+adobe 58
+agile methodology 56
+solution design 56
+design pattern 56
+strategic planning 56
+scripting language 56
+financial analysis 56
+saas 55
+visio 54
+recommender system 54
+critical thinking 54
+information security 53
+ux 53
+stream processing 53
+digital space 52
+application development 52
+redis 52
+workday 50
+warehouse 50
+deep learning 49
+digital 49
+schema design 49
+epidemiology 48
+source system 48
+pentaho 48
+writing 47
+nvidia 47
+linear algebra 47
+accenture digital  qualifications 47
+specification 46
+leadership 46
+statistical methodology 46
+agile development 46
+gap analysis 46
+sharepoint 45
+statistical computer language 45
+text analytics 44
+cyber security 44
+solution development 44
+sourcing analytics expertise 44
+scenario analysis 43
+digital analytics 43
+matrix environment 43
+customer analytics 42
+data expertise 42
+go 41
+web application 41
+cisco 41
+flume 41
+payroll 40
+statistical data analysis 40
+apache 40
+data mapping 40
+splunk 40
+l 39
+customer segmentation 39
+regression analysis 39
+solr 39
+data environment 38
+pdf 38
+performance engineering 38
+netezza 38
+product vision 37
+data protection 37
+predictive analysis 37
+crystal 37
+css 37
+computer keyboard 37
+experiment design 37
+complex data analysis 36
+visualisation 36
+coding standard 36
+pc 36
+data center 36
+gis 35
+graphics 35
+variance analysis 35
+system 35
+product 35
+data resource 35
+spacy 34
+systems analysis 34
+retrieval 33
+data design 33
+react 33
+healthcare analytics 33
+model building 32
+cuda 32
+gpu 32
+data technology 31
+molecular biology 31
+debugging 31
+erp 31
+communications 31
+medical insurance 31
+php 31
+product innovation 31
+performance analysis 31
+computing 31
+digital commerce 30
+ios 30
+cloud computing 30
+nielsen 30
+problem resolution 30
+arcgis 30
+computational linguistics 30
+industrial engineering 30
+code design 30
+jmp 29
+cfr 29
+data application 28
+erp system 28
+organisational 28
+programmers 28
+digital solution 28
+luigi 28
+tcp 27
+statistical data 27
+crm system 27
+agriculture 27
+survival analysis 27
+braintree 27
+scripting language php 27
+analytical expertise 26
+product lifecycle 26
+geospatial data 26
+ui 26
+os 26
+knowledge 26
+visual studio 26
+computer system 26
+palo alto 26
+analytics process 26
+eur 26
+amp analytics solution 26
+rapid prototyping 25
+dataflow 25
+digital data 25
+data curation 25
+eda 25
+glm 24
+audio 24
+coding language 24
+dimensional data 24
+statistical efficiency 24
+market analysis 24
+scheduling 24
+analytics platform 24
+data cleaning 24
+shell scripting 24
+system design 23
+powershell 23
+expertise 23
+data factory 23
+statistical language 23
+applied analytics 23
+project leadership 22
+regulatory reporting 22
+signal processing 22
+visuals 22
+chef 22
+statistical algorithm 22
+cluster analysis 22
+amp analytics 22
+algorithm design 22
+systems 21
+spring 21
+project planning 21
+design architecture 21
+unit testing 21
+digital landscape 21
+elastic search 21
+digital health 20
+semantic ontologies knowledge 20
+vmware 20
+statistical knowledge 20
+programmer 20
+image analysis 20
+edi 20
+ibm cloud 20
+startup environment 20
+statistical machine 20
+mobile device 20
+analytics function 19
+ml system 19
+code development 19
+quantitative analytics 19
+insightful analysis 19
+web development 19
+svn 19
+sdlc 19
+enterprise environment 19
+computer screen 19
+ksh 19
+documentation 18
+digital expertise 18
+complex analytics 18
+forensics 18
+human computer interaction 18
+system development 18
+data workflows 18
+oop 18
+algorithmic 18
+statistical application 18
+dns 18
+computer application 18
+machine data 18
+computer terminal 18
+cloud application 18
+ibm tivoli 18
+scripting languagesunix 18
+client design workshops 18
+minitab 17
+healthcare informatics 17
+data intelligence 17
+modelers 17
+quantitative 17
+gb 17
+product engineering 17
+seo 17
+p&l 17
+virtualization 17
+data files 17
+data knowledge 17
+data development 17
+strategy development 17
+visual analytics 17
+medical imaging 17
+weka 17
+puppet 17
+iam 17
+oltp 17
+experiment analysis 17
+text analysis 16
+process mapping 16
+functional environment 16
+non 16
+experian 16
+data analysis method 16
+analytics manager 16
+intuit 16
+crystal reports 16
+functional design 16
+data lifecycle 16
+biomedical engineering 16
+manual dexterity 16
+data ecosystem 16
+military 16
+nosql graphdb ecosystem 16
+leadclient design workshops 16
+nosql clusterson 16
+azuredata analytics service 16
+capco 15
+android 15
+mechanical engineering 15
+game development 15
+analytics strategy 15
+analytics model 15
+financial engineering 15
+automated system 15
+unstructured environment 15
+snapchat 15
+ssh 15
+calculus 15
+desktop 15
+dell 15
+data assessment 15
+distributed processing 15
+multivariate analysis 15
+hewlett packard enterprise 15
+u department 15
+mobile application 14
+conflict resolution 14
+data analytical 14
+model design 14
+architecture design 14
+nlp model 14
+digital innovation 14
+hpc 14
+geospatial analysis 14
+ihs markit 14
+seamless 14
+intel 14
+illumina 14
+analytical quantitative 14
+data retrieval 14
+mathematical optimization 14
+csv 14
+fractal analytics 14
+cloud storage 14
+enterprise analytics 14
+backend system 14
+llnl 14
+northrop grumman 14
+ansi 14
+tabular model 13
+controller 13
+digital service 13
+analytics application 13
+survey design 13
+fax machine 13
+dashboard design 13
+language 13
+analytical system 13
+statistical expertise 13
+medical terminology 13
+lidar 13
+sales analytics 13
+embedded system 13
+data information 13
+graphql 13
+summarization 13
+optimization algorithm 13
+gartner 13
+devops 13
+multiplatform environment 13
+visual acuity 13
+cloud computing environment 13
+computer architecture 13
+data verification 13
+tool 13
+relational databasesexperience 13
+commercial analytics 12
+analytics space 12
+hubspot 12
+semantic ontology 12
+ngs data 12
+metabolomics 12
+edge analytics 12
+product expertise 12
+cfa 12
+work day 12
+analytical abilities 12
+kanban 12
+visual analysis 12
+data stack 12
+collaboration 12
+deep 12
+prescriptive analytics 12
+segmentation analysis 12
+analytics system 12
+doc 12
+dib 12
+file system 12
+analytics method 12
+tsql 11
+systems development 11
+messaging system 11
+numerical analysis 11
+obiee 11
+system analysis 11
+hellmann 11
+class analytics 11
+dba 11
+marketo 11
+eclipse 11
+standard 11
+process design 11
+keyboards 11
+editing 11
+performance analytics 11
+prediction model 11
+architectural design 11
+niantic 11
+processing data 11
+lims 11
+rust 11
+akka 11
+chep 11
+biostatistics epidemiology 11
+tensor flow 11
+business design 11
+robust analysis 11
+interactive 11
+esri 11
+batch processing 11
+quality engineering 11
+ehr 11
+computing environment 11
+data virtualization 11
+einstein analytics 11
+opencl 11
+managed care 11
+clojure 11
+dmp 10
+accurate analysis 10
+written verbal 10
+analytical statistical 10
+telemetry data 10
+computer literacy 10
+tfs 10
+computer graphics 10
+language technology 10
+nosql solution 10
+pace 10
+workstations 10
+cpa 10
+information analysis 10
+video conferencing 10
+interpersonal skills 10
+design system 10
+document analysis 10
+website analytics 10
+calibration 10
+problem analysis 10
+computational neuroscience 10
+analytical environment 10
+voice dance 10
+statistical computing 10
+deep expertise 10
+visual 10
+streaming analytics 10
+building analytics 10
+application design 10
+omniture 10
+computer equipment 10
+applications development 10
+cupertino 10
+power analytics 10
+transcript 10
+operations analysis 10
+program analysis 10
+mode analytics 10
+nosql implementation 10
+coding efficient object 10
+analytics methodology 10
+analytics infrastructure 10
+game design 10
+analytics design 10
+amp analysis 10
